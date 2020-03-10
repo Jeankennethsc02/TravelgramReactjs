@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TravelgramReactjs/static/css/main.4b5c3934.chunk.css",
+    "main.js": "/TravelgramReactjs/static/js/main.2f074cd0.chunk.js",
+    "main.js.map": "/TravelgramReactjs/static/js/main.2f074cd0.chunk.js.map",
+    "runtime-main.js": "/TravelgramReactjs/static/js/runtime-main.92b4618d.js",
+    "runtime-main.js.map": "/TravelgramReactjs/static/js/runtime-main.92b4618d.js.map",
+    "static/js/2.ff830c0b.chunk.js": "/TravelgramReactjs/static/js/2.ff830c0b.chunk.js",
+    "static/js/2.ff830c0b.chunk.js.map": "/TravelgramReactjs/static/js/2.ff830c0b.chunk.js.map",
+    "index.html": "/TravelgramReactjs/index.html",
+    "precache-manifest.29de6538999edd019a1de25cc262bb59.js": "/TravelgramReactjs/precache-manifest.29de6538999edd019a1de25cc262bb59.js",
+    "service-worker.js": "/TravelgramReactjs/service-worker.js",
+    "static/css/main.4b5c3934.chunk.css.map": "/TravelgramReactjs/static/css/main.4b5c3934.chunk.css.map",
+    "static/js/2.ff830c0b.chunk.js.LICENSE": "/TravelgramReactjs/static/js/2.ff830c0b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b4618d.js",
+    "static/js/2.ff830c0b.chunk.js",
+    "static/css/main.4b5c3934.chunk.css",
+    "static/js/main.2f074cd0.chunk.js"
+  ]
+}
